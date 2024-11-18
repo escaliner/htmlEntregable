@@ -1,0 +1,41 @@
+.image{ 
+max-width: 150px;
+max-height: 150px;
+}
+
+.bloque1{
+border:black solid 2px;
+padding: 4px;
+margin: 3px;
+width: 600px;
+height: 600px;
+}
+
+.bloque2{
+border: black solid 4px;
+padding: 7px;
+margin: 5px;
+width: 600px;
+height: 200px;
+}
+
+.bloque3{
+border:black solid 2px;
+padding: 4px;
+margin: 3px;
+width: 80%;
+height: 70%;
+}
+
+.inline{
+    display: inline-block ;
+}
+
+.bloque1,.bloque3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px ;
+    color: darkblue;
+}
+.bloque2 h2{
+   font-size: 26px; 
+}
